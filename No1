@@ -74,6 +74,20 @@ https://lnk.ec/xtrogo888citra.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 https://link.zozotv.xyz:443/Amir60/28602860/37
 
+supersport###############
+
+ #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro SuperSport 1 HD 
+ #EXTVLCOPT:http-user-agent=Mozilla/5.0 
+ #EXTVLCOPT:http-referrer=https://player.licenses4.me/ 
+ https://webudit.salamus1.lol/lb/premium123/index.m3u8 
+ #EXTINF:-1 tvg-id="AstroSuperSport2.my" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro SuperSport 2 HD 
+ #EXTVLCOPT:http-user-agent=Mozilla/5.0 
+ #EXTVLCOPT:http-referrer=https://player.licenses4.me/ 
+ https://webudit.salamus1.lol/lb/premium124/index.m3u8 
+ #EXTINF:-1 tvg-id="AstroSuperSport3.my" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro SuperSport 3 HD 
+ #EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+
 ######arab saudi###########
 
 
@@ -5429,7 +5443,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", 812 Astro SuperSport 2 
+EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", 812 Astro SuperSport 2 
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5437,7 +5451,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-name="Astro SuperSport 3 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",813 ASTRO SUPERSPORTS 3
+EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-name="Astro SuperSport 3 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",813 ASTRO SUPERSPORTS 3
 https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
@@ -15461,6 +15475,622 @@ http://135.181.113.216:9000/Movies/Raya.and.the.Last.Dragon.2021.1080p.DSNP.WEB-
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/mpxPAIA3ynd8hQc6lBxjpcuLtLb.jpg" tvg-country="" tvg-url="" group-title="VOD MOVIES 886",Synchronic 
 http://m-cdn.fr33.click/M/a48f9324f603171b72bafd112ccedbe4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
+########
+
+
+
+Blame
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Pemburu%20Emas%20Yamashita.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/80tF4DIsEJSxbfEhDrAxrPhlqtc.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario The Movie Episode 1
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%201.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/lnzWT8B3yIfKxFlLH3STOZP5T5.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario The Movie Episode 2 Beach Boys
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%202%20Beach%20Boys.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBjYmZhMzctYjcyMS00YzM2LTk2NTEtNzIyYTNkOTBhYTJjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario XX
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20XX.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SenimanBujangLapok.jpg/220px-SenimanBujangLapok.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Seniman Bujang Lapok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Seniman%20Bujang%20Lapok%20%5B1961%5D.MKV
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7012.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sepah The Movie
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepah%20The%20Movie%20[2012]%20HDTV%201080p@KT.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Serigala Langit (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/erigala%20Langit%20(2021).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzYTc4NmEtYTAzZi00ZWJjLWJiZTMtYWZkNDkzMDYzOTRhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Setinggan 1981
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Setinggan%20(1981).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7015.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Siapa Dapat Lisa
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sepahtu%20-%20Siapa%20Dapat%20Lisa.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7018.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Siapa Dia?
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/SIAPA%20DIA%201996.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/12/sikit-punya-gila.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sikit Punya Gila
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sikit.Punya.Gila.1982.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7019.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Songlap
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Songlap%20(2011)%20[Malay]%20DVDRip.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/cxYCqMGX3vlBfFNO5RrCUZ2LONS.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20tak%20Di%20rindukan.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/ifugXbVH4OGhc1QQuGIh4QITdsU.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan II
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20Tak%20Dirindukan%202%20(2017).MP4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/8eyygpvyWwFRhh5y8f6A8HKOyQe.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga_Yang_Tak_Dirindukan_3_2021_.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7027.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Taikun
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/TAIKUN.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/Takbir-Semalam_Poster_2.21-819x1024.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Takbir Semalam
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Takbir.Semalam.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="http://tny.im/oTv" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tanah Kubur Peneman
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tanah.Kubur.Peneman.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7032.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Terbaik Dari Langit
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Terbaik%20Dari%20Langit%20(2014)%20Hdtv%20480p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://alchetron.com/cdn/Tiga-Abdul-images-f545544d-b261-4aaf-afd1-77e120800dc.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tiga Abdul
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P%20Ramlee%20%20%20Tiga%20Abdul%201964.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tombiruo
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tombiruo720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6998.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", V3: Samseng Jalanan
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Samseng%20Jalanan%202010.mp4
+
+#EXTM3U
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Abang Long Fadil
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/AbangLongFadil.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljN2FjZGYtMjZjMi00YWFlLWJiMzktMGRmOGE0YTFiODVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Ada apa dengan Dosa
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ada%20Apa%20Dengan%20Dosa%20(2020).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NQT8m7ukQ851IweWMrzpPB5jqZ.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Aku Posmen
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/AkuPosmen.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Alas Pati Hutan Mati
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Alas_Pati_Hutan_Mati_2018.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyMjA5YjUtOTZmOS00ZDk0LWI4YzgtYzNiM2Y3YWI4MmUxXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Ali Setan 1985
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ali.Setan.1985.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/0/1/5/0/9/201509-ali-setan-2-0-230-0-345-crop.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Ali Setan 2 1986
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ali%20Setan%202%20%5B1986%5D.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Anak Bapak [Warna]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/Anak%20Bapak%20(warna).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4OTczYmQtMTQxMC00NTMxLWE2MGQtZGIyNDc0NDhlMGM4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Anak Halal
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Anak%20Halal.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-xX4eD65wmNg/YLnw1wr1W9I/AAAAAAAALxo/_gGlqyVxaSQ8-30SheCQmBbdFz5wdZ_IQCLcBGAsYHQ/s16000/Arwah%2BPak%2BMat%252C%2BLif%2B%2526%2BAJK.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Arwah Pak Mat Lif AJK
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Arwah.Pak.Mat.Lif.AJK.2021.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHT9nW1H5CQnNNifGcIMJbqE_4_-mdGe3Dw&usqp=CAU" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Bikers Kental (2013)
+https://acache.veoh.com/file/f/h54166421.mp4?e=1636456861&rs=200&h=79bbbb8e72064d426e92f94acfa84f3c
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/E4tS5hrmWj2Whhzne3W2prNuTI.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Bisik Pada Langit
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bisik%20Pada%20Langit.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTXl4uCDm4N0Cr2RV4qpnnKf1Q5.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Bulan dan Pria Terhebat
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bulan.dan.Pria.Terhebat.2020.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/5RiNZslaMoykZd1ZOIRQARXJhOS.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Busut Bonang
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Busut%20Bonang%20-2019.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-11AcCFtYI_Q/YOC62bEFpZI/AAAAAAAANWY/MpmJomje6kc9Jtp39XVd44ETK0fc45GOQCLcBGAsYHQ/s610/comel_001.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Comel 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-1YhPy_hVMGA/YJlFnSSIuoI/AAAAAAAALns/TZc7ty7kQ_w0BaNHhUcp_42LXXhIQPAagCLcBGAsYHQ/s16000/Dekatnya%2BCinta.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Dekatnya Cinta
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/DekatnyaCinta.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2MTVkN2UtMDZiZi00ODFmLTkzMzEtMTc2ZDFkZTdjZmFjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Fenomena
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Fenomena.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/neO0c69wGECyhx7XSUyDFXGgvAX.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Ghibah 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ghibah%20(2021).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJiODExNDUtZTFlZi00ZWZmLWEwNjMtOWE1YTY5NWJmYzc2XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY1200_CR165,0,630,1200_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Hantu Bonceng 2.0
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HB2.0.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3ZmZkYzEtYzk5OC00ZTc5LThhNDktZTI1Y2UzYzAxZWM2XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Hanya Namamu Laila
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Hanya.Namamu.Laila.2021.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NTEzYWEtODExZC00YzgwLWI3YzItZThlNTMxNmM3MTVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1000_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Hutang 2D (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Hutang.2D.2021.1080p.WEBRip.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/IbuMertuaku.jpg/220px-IbuMertuaku.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Ibu Mertuaku
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Ibu%20Mertuaku%20%5B1962%5D.MP4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", J Revolusi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/J.Revolution.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/qTQwpaPn04yOE7DXv7Z9G8q8uFs.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Jangan Pandang Belakang Boleh? 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/JANGAN%20PANDANG%20BELAKANG%20BOLEH%20B.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-LIwIgWDxMEU/YOBbWhM7_gI/AAAAAAAA2yg/qmTZe0531UM9_YwDic575aupjWoKLP8PgCLcBGAsYHQ/s16000/Filem%2BJangan%2BTakut-Kau%2BTakut%2BAku%2BPun%2BTakut.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Jangan Takut Kalau Kau Takut Aku Pon Takut
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Jangan_Takut_Kalau_Kau_Takut_Aku_Pun_Takut_2021.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI2M2E0NDktMGJiZS00YTQ3LWJiMDQtNTAwMTM4YmNhNzMyXkEyXkFqcGdeQXVyNDEwMjM5MDA@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Kampung Drift
+https://misty-dust.evanwinters.workers.dev/0:/public/Kampung.Drift.2016.1080p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Kampung Zombie
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Kampung%20zombie%20(2015)-indoDub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6923.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Kanang Anak Langkau: The Iban Warrior
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Kanang%20Anak%20Langkau%20The%20Iban%20Warrior%202017%20WEB-DL%20720P.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI3ODI5NjgtZmMyNi00MWIxLTg3MzAtOGI1MzE3YzM3N2Y5XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Kau Takdirku
+https://misty-dust.evanwinters.workers.dev/0:/public/Kau.Takdirku.2017.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.discplayercdndvd.com/webshaper/pcm/gallery/lg/4b3f11e2cd8917ff5b32c72ca2fff1f31527732537-lg.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Keluarga 69
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/Keluarga%2069.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://3.bp.blogspot.com/-LCHU94dM3dA/W9T4sDbdbiI/AAAAAAAAE3c/smL2aloFwo4izcGvBR9Q4bRvhYlMm2m6ACLcBGAs/s1600/maxresdefault.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Kem 505
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/KEM%2520505.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6933.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", KL Gangster
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/KL%20Gangster%201.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/7JknHNRvsk0TkqReZlzOnpbH83g.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", KL Gangster 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Kl%20Gangster%202%20(2013)%20Malay.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/AjD8P7wzoEaNZiAN0bIAfT6GgiR.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", KL Gangster Underworld
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/KL_Gangster_Underworld__Rise_To_Power_2019.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6935.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", KL Menjerit
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/KL%20Menjerit%20(2002)%20SDTVRip-Akai.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5ZTFiMDUtY2RjZi00NGFiLTk4MGUtY2E3YWQ3Zjk5OGY4XkEyXkFqcGdeQXVyMjY1MDkyMzY@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", KL Zombie
+https://misty-dust.evanwinters.workers.dev/0:/public/KL.Zombi.2013.1080p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Korban Penunggu Hospital
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Korban%2520Penunggu%2520Hospital.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/71c27OuHAa1uOw1nZrbsiPOIl0U.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lagenda Budak Hostel
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/LagendaBudakHostel.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM2MWRjOTUtMzRmMC00MmJmLWEzMDYtMTZhYmIyM2QwYjhiXkEyXkFqcGdeQXVyMzE4NjA0ODc@._V1_FMjpg_UX1000_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lagenda Budak Setan 2: Katerina 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan%202.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/1rGPnckRSlivbKgqgiAr2a7Te09.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lagenda Budak Setan 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/c86TXVEhn4WqOszEiWAk7ve4QFb.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lagenda Budak Setan 3: Kasyah 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan%203-%20Kasyah.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lagi Lagi Senario
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Lagi%20Lagi%20Senario.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/36/LailaIsabella%28poster%29.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Laila Isabella [2003]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Laila%20Isabella%20(2003).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0YWUzYWQtYjU3Ny00YWVkLTlmNTgtNjIzNDZmNmE2N2ZkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY1200_CR166,0,630,1200_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Laksamana Do Re Mi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Laksamana_Do_Re_Mi_1972.MP4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lampor Keranda Terbang
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%20Terbang%20(2019).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7236.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Leftenan Adnan
+https://api1.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/8/Leftenan%20Adnan%20[2000].mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQyYTU1ZGEtODY3OS00OTE3LThiOWItMTdmNzg1OTg4YzgxXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lelaki Harapan Dunia
+https://misty-dust.evanwinters.workers.dev/0:/public/Lelaki.Harapan.Dunia.2014.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDkyZGQtNjQ3ZS00ZjJiLWIwMGQtN2M4ZDg3M2I0NjM2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Longkai
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/LONGKAI.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZjZTQ2ZTAtNjcxYi00MzRiLWFjYjYtZmU4OTVkMzI1NDY5XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Lu Gua Bro
+https://misty-dust.evanwinters.workers.dev/0:/public/Lu,.Gua.Bro!.2014.480p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6955.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Mael Lambong
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Mael%20lambong%20(2012).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Main Main Hantu (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/utolwYjTlupkF4CPKaSxR5OkhQI.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Maria Marian 2 1998
+https://misty-dust.evanwinters.workers.dev/0:/public/Maria.Mariana.2.1998.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/wOcZk7FDZGGTlARBXza6KOq412E.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Maria Mariana 1996
+https://misty-dust.evanwinters.workers.dev/0:/public/Maria.Mariana.1996.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1585094464-masam-ma.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Masam Masam Manis
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Masam_Masam_Manis_1965.MKV
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Mat Bond Malaya (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Mat%20Bond%20Malaya%20(2021).mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg1NjEzM2ItZmQwZS00OGE4LWEyNDQtMTEzYzY0ZmU2ZjI3XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Mat Tudung
+https://misty-dust.evanwinters.workers.dev/0:/public/Mat.Tudung.2014.1080p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkODU3YjctZTY0Ni00NDU5LWIzYTEtMDY0NjYzNjczYzA0XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Munafik
+https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.x264-PYPER.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYWNjOGUtZTllMi00NjA5LWFmZmItZWI2N2VmOWRjYjc3XkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Munafik 2
+https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2.2018.1080p.NF.WEB-DL.DDP5.1.x264-AON.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NmQyNTItNDVmNi00MmI3LTgxOWYtNzBhYWQyOWY2N2I0XkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Nasib Do Re Mi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Nasib%20Do%20Re%20Mi%20%5B1966%5D.MKV
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwMmJkNmMtNjBkYy00MTNhLTgyZWUtMmU2NDY3NTNlNDU4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Nasib Si Labu Labi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Nasib_Si_Labu_Labi_1963.MKV
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6730.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Original Gangster
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Original%20Gangster%20(2020).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6975.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Pada Suatu Cinta Dahulu
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Pada%20Suatu%20Cinta%20Dahulu%20(2013)%20%5BMalay%5D%20PPVRip.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-_9hqa-oE9S0/YLt2BZopQ-I/AAAAAAAALxw/3vlKfRJ3QD0VL9_tKvqMhgUF7mdjX75OQCLcBGAsYHQ/s16000/Pemuja%2BKubur.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Pemuja Kubur
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Pemuja.Kubur.2021.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Pendekar Bujang Lapok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Pendekar_Bujang_Lapok_1959.MP4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lcLHTYBgFM5AnvEsTbVk9wd4QZa.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Penunggang Agama
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/PA2021.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFhZWExYWYtZDE1Mi00MjMzLTk2ODUtM2MxODJkM2M2NWE2XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Perempuan Melayu Terakhir 1999
+https://misty-dust.evanwinters.workers.dev/0:/public/Perempuan.Melayu.Terakhir.1999.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://1.bp.blogspot.com/-3CpXqfQAuyw/YKOKD9GnxQI/AAAAAAAALqo/d_iy49gJytMLYJld7A4iTwhpHQWuscciwCLcBGAsYHQ/s16000/Perkahwinan%2BDari....jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Perkahwinan Dari Neraka
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Perkahwinan%20Dari%20Neraka%20(2021).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6990.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Remp-IT
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Remp-It%20[2007]%20SDRip.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6991.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Rentap
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rentap.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Rock
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock2005.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Rock 4 Rockers Never Dai
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.4.Rockers.Never.Dai.2020.720p.WEBRip.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Rock Oo! Rimba Bara is back
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock%20Oo2013.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/d3QR2E7ITlAjx5C9rcVbFKZwKWp.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Rock Sangkut
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.Sangkut.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMzEwMWItMjk2My00NzE2LWE0YTAtMzc2YzU1NTk2ZGNjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Seandainya Kau Ada
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Seandainya%20Kau%20Ada.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/hnjzZfD81VopnRKZiGtUtLnM7FA.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sembilu 1994
+https://misty-dust.evanwinters.workers.dev/0:/public/Sembilu.1994.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/b77vNlV9bW6TAutGmKHtayJPSED.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sembilu 2 1995
+https://misty-dust.evanwinters.workers.dev/0:/public/Sembilu.II.1995.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/yI7i2ZAXbce5hVeudpMszld1yJw.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario Asam Garam
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Asam%20Garam.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="http://tny.im/oQn" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario Lang Buana
+https://misty-dust.evanwinters.workers.dev/0:/public/Senario.Lang.Buana.2003.1080p.NF.WEB-DL.AAC.2.0.VP9.INTERNAL-AON.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/Ac2UyNOIJa4EP6lxtUpJXdEwoB0.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario Pemburu Emas Yamashita
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Pemburu%20Emas%20Yamashita.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/80tF4DIsEJSxbfEhDrAxrPhlqtc.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario The Movie Episode 1
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%201.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/lnzWT8B3yIfKxFlLH3STOZP5T5.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario The Movie Episode 2 Beach Boys
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%202%20Beach%20Boys.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBjYmZhMzctYjcyMS00YzM2LTk2NTEtNzIyYTNkOTBhYTJjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Senario XX
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20XX.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SenimanBujangLapok.jpg/220px-SenimanBujangLapok.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Seniman Bujang Lapok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Seniman%20Bujang%20Lapok%20%5B1961%5D.MKV
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7012.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sepah The Movie
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepah%20The%20Movie%20[2012]%20HDTV%201080p@KT.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Serigala Langit (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/erigala%20Langit%20(2021).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzYTc4NmEtYTAzZi00ZWJjLWJiZTMtYWZkNDkzMDYzOTRhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Setinggan 1981
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Setinggan%20(1981).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7015.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Siapa Dapat Lisa
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sepahtu%20-%20Siapa%20Dapat%20Lisa.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7018.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Siapa Dia?
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/SIAPA%20DIA%201996.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/12/sikit-punya-gila.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Sikit Punya Gila
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sikit.Punya.Gila.1982.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7019.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Songlap
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Songlap%20(2011)%20[Malay]%20DVDRip.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/cxYCqMGX3vlBfFNO5RrCUZ2LONS.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20tak%20Di%20rindukan.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/ifugXbVH4OGhc1QQuGIh4QITdsU.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan II
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20Tak%20Dirindukan%202%20(2017).MP4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/8eyygpvyWwFRhh5y8f6A8HKOyQe.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga_Yang_Tak_Dirindukan_3_2021_.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7027.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Taikun
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/TAIKUN.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/Takbir-Semalam_Poster_2.21-819x1024.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Takbir Semalam
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Takbir.Semalam.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="http://tny.im/oTv" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tanah Kubur Peneman
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tanah.Kubur.Peneman.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7032.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Terbaik Dari Langit
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Terbaik%20Dari%20Langit%20(2014)%20Hdtv%20480p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://alchetron.com/cdn/Tiga-Abdul-images-f545544d-b261-4aaf-afd1-77e120800dc.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tiga Abdul
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P%20Ramlee%20%20%20Tiga%20Abdul%201964.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", Tombiruo
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tombiruo720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6998.jpg" group-title="VOD Filem Melayu" tvg-id="" tvg-name="", V3: Samseng Jalanan
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Samseng%20Jalanan%202010.mp4
+myiptv6k/vod.m3u at main/Faizalrozihan · azrina
+
+#############
+
+#EXTINF:-1,TV
+#EXTINF:-1 tvg-id="" tvg-name="CS:GO" tvg-logo="https://i.imgur.com/rDzfSJQ.png" group-title="GAMEPLAY P2S",CS:GO
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251312
+#EXTINF:-1 tvg-id="" tvg-name="CS:GO 2" tvg-logo="https://i.imgur.com/rDzfSJQ.png" group-title="GAMEPLAY P2S",CS:GO 2
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251313
+#EXTINF:-1 tvg-id="" tvg-name="CS:GO ESL" tvg-logo="https://i.imgur.com/rDzfSJQ.png" group-title="GAMEPLAY P2S",CS:GO ESL
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251314
+#EXTINF:-1 tvg-id="" tvg-name="Call of Duty" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="GAMEPLAY P2S",Call of Duty
+http://rogermellie.xyz:80/richay/richay/1035036
+#EXTINF:-1 tvg-id="" tvg-name="FORTNITE" tvg-logo="https://i.imgur.com/kIwMZEG.png" group-title="GAMEPLAY P2S",FORTNITE
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251325
+#EXTINF:-1 tvg-id="" tvg-name="DOTA 2" tvg-logo="https://i.imgur.com/yjlsNPn.png" group-title="GAMEPLAY P2S",DOTA 2
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251319
+#EXTINF:-1 tvg-id="" tvg-name="DOTA ESL" tvg-logo="https://i.imgur.com/W5XbD9q.png" group-title="GAMEPLAY P2S",DOTA ESL
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251318
+#EXTINF:-1 tvg-id="" tvg-name="LOL LEAGUE OF LEGEND" tvg-logo="https://i.imgur.com/5aBpnxG.png" group-title="GAMEPLAY P2S",LOL LEAGUE OF LEGEND
+http://gameplay.p2sweb.me:80/angoliveira/x254637/251316
+#EXTINF:-1 tvg-id="" tvg-name="MOBILE LEGENDS" tvg-logo="https://i.imgur.com/0ebjCZF.png" group-title="GAMEPLAY P2S",MOBILE LEGENDS
+http://159.75.85.63:35455/huya/wzgxs1
+
+###############
+
+-------------------Live Bóng Đá-------------------#
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="EXTRA SPORT",⚽ MU-FC
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508219
+#EXTINF:-1 tvg-id="nowSportsPremierLeague1.hk" tvg-logo="https://i.ibb.co/MhgRjWw/now1.png" group-title="EXTRA SPORT",⚽ Now Premier Sports 1
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425332
+#EXTINF:-1 tvg-id="nowSportsPremierLeague2.hk" tvg-logo="https://i.ibb.co/vZwRg2M/now2.png" group-title="EXTRA SPORT",⚽ Now Premier Sports 2
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425328
+#EXTINF:-1 tvg-id="nowSportsPremierLeague3.hk" tvg-logo="https://i.ibb.co/NmSPDfJ/now3.png" group-title="EXTRA SPORT",⚽ Now Premier Sports 3
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425327
+
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-id="ChampionsTV1" tvg-logo="https://i.imgur.com/EaRVaEX.png",CHAMPIONS TV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-id="ChampionsTV2" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-id="ChampionsTV3" tvg-logo="https://i.imgur.com/1MBBBBN.png", CHAMPIONS TV 3
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV5" tvg-logo="https://i.ibb.co/tZ1rKtf/vidio.png" group-title="EXTRA SPORT", CHAMPIONS TV 5 (EPL)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-id="ChampionsTV6" tvg-logo="https://i.imgur.com/md5aib0.png", CHAMPIONS TV 6 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-id="ChampionsTVEPL.id" tvg-logo="https://i.imgur.com/DQ5abQT.png",⚽ Premier League TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=chamepl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+premierleague.fr" tvg-name="FR: CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://logo.iptveditor.com/canal+premierleague.png" group-title="EXTRA SPORT",⚽ CANAL+ PREMIERE LEAGUE FHD
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496603
+#EXTINF:-1 tvg-id="canal+foot" tvg-logo="https://i.ibb.co/sJ1vpZr/Canal-Foot.png" group-title="EXTRA SPORT",⚽ CANAL+ FOOT
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496666
+#EXTINF:-1 tvg-id="canal+sports1" group-title="EXTRA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
+http://humiptv.live:8080/live/0473936210/8252829362/1961.ts
+#EXTINF:-1 tvg-id="canal+sports2" group-title="EXTRA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
+#EXTINF:-1 tvg-id="canal+sports360" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/JRCWqbZ/canal-sport-360.png",Canal+ Sport 360
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496731
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="EXTRA SPORT",⚽ Bein Sport 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
+#EXTINF:-1 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="EXTRA SPORT",⚽ Bein Sport 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
+#EXTINF:-1 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="EXTRA SPORT",⚽ Bein Sport 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="EXTRA SPORT",BT SPORTS 1 FHD (50FPS)
+http://raw.bitnode.pm:81/giorgi/giorgi/20360
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 FHD (50FPS)" tvg-logo="https://i.ibb.co/Tq7b5jG/Btsport2.png" group-title="EXTRA SPORT",BT SPORTS 2 FHD (50FPS)
+http://raw.bitnode.pm:81/giorgi/giorgi/20366
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 FHD (50FPS)" tvg-logo="https://i.ibb.co/7RQBg4D/Btsport3.png" group-title="EXTRA SPORT",BT SPORTS 3 FHD (50FPS)
+http://raw.bitnode.pm:81/giorgi/giorgi/20371
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT SPORTS 4 FHD (50FPS)" tvg-logo="https://i.ibb.co/NygH8vr/Btsport4.png" group-title="EXTRA SPORT",BT SPORTS 4 FHD (50FPS)
+http://raw.bitnode.pm:81/giorgi/giorgi/322582
+
+#EXTINF:1 tvg-id="vsportfootball.fi" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
+http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12076/index.m3u8
+#EXTINF:1 tvg-id="viasatsportxtra.fi" group-title="EXTRA SPORT" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.ibb.co/2yCdzKP/VSport-Extra.png",Viaplay Xtra FHD
+http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
+#EXTINF:1 tvg-id="viasatSportPremierLeague.fi" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/3ChDTNL/vsportpremier2.png",⚽| V Sport Premier League
+http://mag.you24.online:80/smarttverz/72p44x7OkNDDLd/696636
+#EXTINF:1 tvg-id="premiersports.uk" tvg-logo="https://i.ibb.co/hDw5FSg/v-sport1.png" group-title="EXTRA SPORT",⚽| V-Premium Sports
+http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="EXTRA SPORT",⚽| HubPremier 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032529&extension=ts&play_token=
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="EXTRA SPORT",⚽| HubPremier 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032528&extension=ts&play_token=
+#EXTINF:-1 tvg-id="HubPremier3.sg" tvg-name="HubPremier3" tvg-logo="https://i.ibb.co/4Ns61QY/znzwou1659622086.png" group-title="EXTRA SPORT",⚽ HubPremier 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032527&extension=ts&play_token= 
+#EXTINF:0 tvg-id="astrosupersport" tvg-name="AstroSuperSport" tvg-logo="https://i.ibb.co/ZJvBYyx/Astro-Super-Sport-UHD.png" group-title="EXTRA SPORT",⚽ Astro SuperSport
+http://raw.bitnode.pm:81/gomez3419@gmail.com/0124986/38186
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroSuperSport2" tvg-name="MY: ASTRO SUPERSPORT 2 FHD" tvg-logo="https://i.ibb.co/QPqdLxk/astro2.png" group-title="EXTRA SPORT",ASTRO SUPERSPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+#EXTINF:0 tvg-id="astrosupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/BZ80zs5/astro3.png" group-title="EXTRA SPORT",Astro SuperSport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+#EXTINF:0 tvg-id="astrosupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/BwWQnk8/astro4.png" group-title="EXTRA SPORT",Astro SuperSport 4
+http://humiptv.live:8080/live/0473936210/8252829362/5483.ts
+
+#EXTINF:0 tvg-id="elevensports1" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/Q9VkNQh/eleven1.png",⚽| ELEVEN SPORTS 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19158/index.m3u8
+#EXTINF:-1 tvg-id="PeacockPremierLeague.uk" group-title="EXTRA SPORT" tvg-logo="https://i.imgur.com/DQ5abQT.png",⚽ Peacock•PremierLeague
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032457&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/pvt00Xj/Sky-Sport-Football.png" group-title="EXTRA SPORT",⚽ Sky Sports Football FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1896&extension=ts&play_token=mnXD1HLeG7
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="EXTRA SPORT",S.K.Y SPORTS PREMIER LEAGUE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1894&extension=ts&play_token=Vogu1ADsiO
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/Q6SS7SJ/Sky-Sports-Main-Event-UHD.png" group-title="EXTRA SPORT",SKY SPORTS MAIN EVENT
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83450&extension=ts&play_token=
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.ibb.co/QrGSRc7/Sky-Sport-Mix.png" group-title="EXTRA SPORT", Sky Sports Mix
+http://raw.bitnode.pm:81/giorgi/giorgi/20701
+#EXTINF:0 tvg-id="skysportcalcio.it" tvg-logo="https://i.ibb.co/NK2PrnL/Sky-Sport-Calcio.png" group-title="EXTRA SPORT",SKY SPORT CALCIO
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19129/index.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-logo="https://logo.iptveditor.com/skysportuno.png" group-title="EXTRA SPORT", SKY SPORT UNO
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=692393&extension=ts&play_token=
+#EXTINF:1 tvg-id="skysportsgolf.uk" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/qj4Gcff/Sky-Sport-Golf.png",Sky Sports Golf FHD
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508250
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="LA LIGA TV FHD" tvg-logo="https://logo.iptveditor.com/laligatv.png" group-title="EXTRA SPORT",⚽ LA LIGA TV FHD
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/501474
+#EXTINF:-1 tvg-id="dazn1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="EXTRA SPORT", DAZN 1
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/303780
+#EXTINF:-1 tvg-id="dazn2.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="EXTRA SPORT", DAZN 2
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
+
+#EXTINF:0 tvg-id="setanta" tvg-logo="https://i.ibb.co/fCVBWBL/Setanta-Sports.png" group-title="EXTRA SPORT",⚽ Setanta HD
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20064/index.m3u8
+#EXTINF:0 tvg-id="setanta1" tvg-logo="https://i.ibb.co/86rsQyd/Setanta-Sports-1.png" group-title="EXTRA SPORT",⚽ Setanta 1 HD
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20065/index.m3u8
+#EXTINF:0 tvg-id="setanta2" tvg-logo="https://i.ibb.co/XCYT22S/Setanta-Sports-2.png" group-title="EXTRA SPORT",⚽ Setanta 2 HD
+#EXTVLCOPT:network-caching=1000
+http://176.222.190.76/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Byqcf30/Trace-SSLogo.png" group-title="EXTRA SPORT Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-logo="https://i.ibb.co/ryZ3jb0/euro1.png" group-title="EXTRA SPORT", EuroSport 1
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508205
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-logo="https://i.ibb.co/D10K97K/euro2.png" group-title="EXTRA SPORT", EuroSport 2
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508207
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/t4PRwF6/china.png", Sport China
+https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1 tvg-id="edgesport.uk" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",🎖️| Edge Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8?cc
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="EXTRA SPORT",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/9skv8CD/snooker.png",Snooker TV
+http://203.80.165.14:9981/stream/channelid/2019055245?profile=pass
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/yR44dVB/Picsart-23-04-16-08-02-36-599.png",🎖️| Billard TV
+https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/4127a852-d384-4351-b003-29bfa8882ccf/4.m3u8?cc
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="EXTRA SPORT",CCTV5+
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 tvg-id="RedBullTV.uk" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/MSSKTB9/redbull.png",🎖️| RedBull
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?cc
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/P1qgzvx/Sky-Sports-Racing.png" group-title="EXTRA SPORT",SKY SPORTS RACING
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/50825
+#EXTINF:-1 tvg-id="racingtv.uk" tvg-logo="https://i.ibb.co/Nm670rg/racingtv.png" group-title="EXTRA SPORT",RACING TV HD
+http://raw.bitnode.pm:81/giorgi/giorgi/20386
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/st0W3mm/Ziggo-Sport-Racing.png",🎖️| Ziggo Sport Racing
+http://nv1connect.com:80/12345678/87654321/28726
+#EXTINF:-1 tvg-id="skysportsf1.uk" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/7Q7Nm20/Sky-Sport-F1.png",🎖️| Sky Sports F1
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/10079/index.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmotogp.it" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="https://logo.iptveditor.com/skysportmotogp.png" group-title="EXTRA SPORT", SKY SPORT MOTOGP FHD
+http://raw.bitnode.pm:81/gomez3419@gmail.com/0124986/1115953
+#EXTINF:-1 tvg-id="daznf1.de" tvg-logo="https://i.ibb.co/BT98bBW/DAZN-F1.png" group-title="EXTRA SPORT",DAZN F1
+http://trx.p13.one:80/live/Willow123/Willow123/1836060.ts
+#EXTINF:-1 tvg-id="unbeaten" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/RP0yMGv/unbeaten.png",🎖️| Unbeaten
+#EXTVLCOPT:network-caching=1000
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoxingTV" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/5sQz1fj/boxing-tv.png", Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="combate.br" tvg-name="BR: COMBATE FHD" tvg-logo="https://i.ibb.co/4JKFQtQ/combat.png" group-title="EXTRA SPORT",COMBAT FHDR
+http://newstvc.tech:8080/528186/844789/628994
+#EXTINF:0 tvg-id="FIGHTBOX" tvg-name="FIGHT BOX" tvg-logo="https://i.ibb.co/CbFCs0D/fightbox.png" group-title="EXTRA SPORT",FIGHT BOX
+http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138356
+#EXTINF:0 tvg-id="mmatvhd" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/x1m29yh/MMAtv.png",🎖️| MMA-TV.com HD
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19243/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="EXTRA SPORT",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="Peacock Live | WWE Network" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="EXTRA SPORT",Peacock Live | WWE Network
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/40
+#EXTINF:-1 tvg-id="wwe" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="EXTRA SPORT", IMPACT PRO WRESTLING
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/428570
+#EXTINF:-1 tvg-id="wwe" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="EXTRA SPORT", WWE Money in the Bank
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/489190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boxnation.uk" tvg-logo="https://logo.iptveditor.com/boxnation.png" group-title="EXTRA SPORT",BOXNATION FHD
+http://raw.bitnode.pm:81/giorgi/giorgi/20396
+#EXTINF:0 group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/9WDS1Vk/logo.png",🎖️|SKY HIGH FIGHT +
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/15097/index.m3u8
+#EXTINF:-1 tvg-id="UfcNetwork.us" tvg-logo="https://i.ibb.co/nmxL95J/ufc.png" SPORT",UFC Fight
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=13259&extension=ts&play_token=yUSi9cDsby
+#EXTINF:-1 tvg-id="wwenetwork" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="EXTRA SPORT",🎖️| WWE Network
+http://humiptv.live:8080/live/0473936210/8252829362/711.ts
+#EXTINF:-1 tvg-id="fightsports" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/VqskkPL/FIGHT-SPORTS-2018.png",🎖️| FIGHT SPORTS
+http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508840
+#EXTINF:-1 tvg-id="fightnetwork.uk" group-title="EXTRA SPORT" tvg-logo="https://i.ibb.co/qrWHqLb/fight.png",🎖️| Fight Network
+#EXTVLCOPT:network-caching=1000
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3
+#EXTINF:-1,Kaloopy
+https://a.dl.dropboxusercontent.com/s/mt3jxpkua8t5u5f/./   																						 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fpj3dPn/kaloopy.png" group-title="EXTRA SPORT" Kaloopy
+https://a.dl.dropboxusercontent.com/s/mt3jxpkua8t5u5f/./   																						 ㅤ  							
+
+
+
+
+
+
+
+
+
+
 
 ##############
 <noscript>
