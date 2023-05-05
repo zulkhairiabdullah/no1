@@ -32,13 +32,10 @@ https://tinyurl.com/yck8nndy
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=ts&play_token=1kEm8DbZmS
 
-
-
-
-
-
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
-https://link.zozotv.xyz:443/Amir60/28602860/35
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
