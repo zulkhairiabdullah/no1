@@ -5721,7 +5721,7 @@ https://newtest.onlinewebtv.lol/ddy6/premium539/tracks-v1a1/mono.m3u8|referer=ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://x20.flowerscast.com:999/hls/laligauk.m3u8?md5=2BDeAk6vL3W72efhB7P0CA&expires=1678114789|referer=https://gocast2.com/
 
-#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="⚽SPORTS⚽",BeINSports Extra
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="⚽SPORTS⚽" ,BeINSports Extra
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/YfkCfwq/Desain-tanpa-judul-36-modified.png", beINSports English 1 
@@ -5780,7 +5780,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfc32f4dc3dac49b34708ded20364610:025dcec778861dd1e40cce4dd35e73a4
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDwWMtCY/Rugby-Pass-TVWhite.png" group-title="⚽SPORTS⚽",Rugby Pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDwWMtCY/Rugby-Pass-TVWhite.png" group-title="⚽SPORTS⚽" ,Rugby Pass
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.ibb.co/wcyS6n2/Desain-tanpa-judul-82-modified.png" group-title="⚽SPORTS⚽" ,UseeSports 1
@@ -5899,7 +5899,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#EXTINF:-1 tvg-id="821" ch-number=" " tvg-name="WWE Network HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="⚽SPORTS⚽",821 WWE Network
+#EXTINF:-1 tvg-id="821" ch-number=" " tvg-name="WWE Network HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="⚽SPORTS⚽" ,821 WWE Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TnaWrestling.us" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="⚽SPORTS⚽" ,TNA Wrestling
